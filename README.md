@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|8| [Stirng to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [java](./algorithms/java/stirngtointeger/stringToInteger.java) | Medium|
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [java](./algorithms/java/reverseinteger/reverseInteger.java) | Medium |
 |6| [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |[java](./algorithms/java/zigzagconversion/zigzag.java) | Medium|
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [java](./algorithms/java/longestpalindromicsubstring/longestPalindromicSubstring.java) | Medium | 
