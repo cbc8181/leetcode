@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [java](./algorithms/java/palindromenumber/palindrome.java) | Easy |
 |8| [Stirng to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [java](./algorithms/java/stirngtointeger/stringToInteger.java) | Medium|
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [java](./algorithms/java/reverseinteger/reverseInteger.java) | Medium |
 |6| [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) |[java](./algorithms/java/zigzagconversion/zigzag.java) | Medium|
