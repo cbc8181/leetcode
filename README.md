@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [java](./algorithms/java/romantointeger/romanToInteger.java) | Easy | 
 |12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [java](./algorithms/java/integertoroman/integerToRoman.java) | Medium |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [java](./algorithms/java/containerwithmostwater/container.java) | Medium | 
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [java](./algorithms/java/palindromenumber/palindrome.java) | Easy |
