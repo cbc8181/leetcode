@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [java](./algorithms/java/longestcommonprefix/longestcommonprefix.java)| Easy |
 |13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [java](./algorithms/java/romantointeger/romanToInteger.java) | Easy | 
 |12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [java](./algorithms/java/integertoroman/integerToRoman.java) | Medium |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [java](./algorithms/java/containerwithmostwater/container.java) | Medium | 
