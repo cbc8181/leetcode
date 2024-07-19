@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+｜17| [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [java](./algorithms/java/lettercombinationsofphonenumber/lettercombinephonenumber.java) | Medium |
 |16| [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [java](./algorithms/java/3sumclosest/sumcloset3.java) | Medium |
 |15| [3 Sum](https://leetcode.com/problems/3sum/) | [java](./algorithms/java/3sum/threeSum.java) | Medium| 
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [java](./algorithms/java/longestcommonprefix/longestcommonprefix.java)| Easy |

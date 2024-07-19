@@ -25,6 +25,7 @@
 // Solution: sort the array, then use two pointers to find the closest sum
 // Time complexity: O(n^2), Space complexity: O(1)
 class Solution {
+    Character.getNumericValue
 
     public int threeSumClosest(int[] nums, int target) {
 
